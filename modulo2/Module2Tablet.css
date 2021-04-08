@@ -1,0 +1,31 @@
+
+
+/******** Tablet ********/
+	@media (min-width: 768px) and (max-width: 991px){
+	
+	#Work{
+	background-color: blue;
+	box-sizing: border-box;
+	width: 48%;
+	border: 1px solid black;
+	float: left;
+	margin: 1%;
+		
+	}
+	#Bio{
+	background-color: green;
+	box-sizing: border-box;
+	width: 48%;
+	border: 1px solid black;
+	float: left;
+	margin: 1%;
+	}
+	#School{
+	background-color: red;
+	box-sizing: border-box;
+	width: 98%;
+	border: 1px solid black;
+	float: left;
+	margin: 1%;
+	}
+	}

@@ -1,0 +1,26 @@
+
+/******** Mobile ********/
+	@media  (max-width: 767px){
+	
+	#Work{
+	background-color: blue;
+	box-sizing: border-box;
+	width: 98%;
+	border: 1px solid black;
+	margin: 1%;
+	}
+	#Bio{
+	background-color: green;
+	box-sizing: border-box;
+	width: 98%;
+	border: 1px solid black;
+	margin: 1%;
+	}
+	#School{
+	background-color: red;
+	box-sizing: border-box;
+	width: 98%;
+	border: 1px solid black;
+	margin: 1%;
+	}
+	}

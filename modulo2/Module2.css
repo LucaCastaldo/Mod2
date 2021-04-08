@@ -1,0 +1,53 @@
+
+/******** tutto il resto ********/
+	body{
+		background-color: #f97f06;
+	}
+
+	div{
+	background-color: #f9f100;
+	box-sizing: border-box;
+	width: 112.016px;
+	height: 18px;
+	text-align: center;
+	float: right; 
+	
+	}
+
+	h1{
+	text-align: center;
+	color: #59f480;
+	font-size: 300%;
+	}
+
+
+
+/******** Laptop ********/
+	@media (min-width: 992px){
+	#Work{
+	background-color: blue;
+	box-sizing: border-box;
+	width: 31%;
+	border: 1px solid black;
+	float: left;
+	margin: 1%;
+		
+	}
+	#Bio{
+	background-color: green;
+	box-sizing: border-box;
+	width: 31%;
+	border: 1px solid black;
+	float: left;
+	margin: 1%;
+	}	
+	#School{
+	background-color: red;
+	box-sizing: border-box;
+	width: 31%;
+	border: 1px solid black;
+	float: left;
+	margin: 1%;
+	}
+	}
+	
